@@ -21,3 +21,6 @@ User Story #8: The img element should responsively resize, relative to the width
 User Story #9: The img element should be centered within its parent element.
 
 For this assignment i used VSCode to code and https://codepen.io/ to test it. 
+
+RESULT OF MY ASSIGNMENT: https://codepen.io/greatti/details/wvoOZaR
+leave a like :relaxed:
